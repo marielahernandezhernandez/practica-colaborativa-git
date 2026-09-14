@@ -1,1 +1,1 @@
-# practica-colaborativa-git
+# practica-colaborativa Git - Persona A
