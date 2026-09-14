@@ -1,1 +1,1 @@
-# practica-colaborativa-git
+# Practica colaborativa Git - Version B
