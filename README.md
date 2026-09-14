@@ -1,1 +1,2 @@
-# practica-colaborativa Git - Persona A
+
+# Poyecto colaborativo - Version A y B
