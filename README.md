@@ -1,1 +1,1 @@
-# Practica colaborativa Git - Version B
+# Poyecto colaborativo - Version B
